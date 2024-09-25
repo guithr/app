@@ -41,6 +41,6 @@ Once the dependencies are effectively installed, you are now fully able to run t
 node index.js
 ```
 
-## 🖼 Previews
+## 🖼 Preview
 
-![A preview of the portfolio](./img/)
+![A preview of the APP](./img/screenshot_app-1.png)
